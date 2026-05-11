@@ -4,8 +4,6 @@ Write a simple Python program for the modulation and demodulation of ASK and FSK
 # Tools required
 Google colab
 # Thoery
-## Theory
-
 Digital modulation is the process of converting digital data into analog signals for transmission through a communication channel. Two commonly used digital modulation techniques are Amplitude Shift Keying (ASK) and Frequency Shift Keying (FSK).
 
 In ASK, the amplitude of the carrier signal changes according to the binary input signal while the frequency remains constant.
