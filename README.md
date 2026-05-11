@@ -4,8 +4,6 @@ Write a simple Python program for the modulation and demodulation of ASK and FSK
 # Tools required
 Google colab
 # Thoery
-## Theory
-Theory
 Amplitude Shift Keying (ASK) is a digital modulation technique in which the amplitude of the carrier signal changes according to the binary input data while frequency and phase remain constant.
 
 For binary 1, the carrier signal is transmitted.
